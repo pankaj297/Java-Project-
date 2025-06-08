@@ -15,7 +15,5 @@ public class demo9 {
 	  case 'u': System.out.println("Vowel");break;
 	  default: System.out.println("Consonant");
 	  }
-	  
-	  
   }
 }

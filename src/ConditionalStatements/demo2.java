@@ -4,6 +4,7 @@ import java.util.*;
 
 public class demo2 {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		//Write an if-else condition to check if a number is even or odd

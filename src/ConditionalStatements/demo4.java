@@ -3,7 +3,8 @@ package ConditionalStatements;
 import java.util.Scanner;
 
 public class demo4 {
-
+    
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		//Leap Year

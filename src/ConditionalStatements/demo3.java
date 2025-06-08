@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class demo3 {
 	
+@SuppressWarnings("resource")
   public static void main(String[] args) {
 	  
 	  //Check eligibility to vote
